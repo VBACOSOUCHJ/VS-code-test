@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Daily Performance Snapshot - Multi selection 08.07.24_UPDATED_2"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "9738bbb9-5859-48b8-8b3b-6fe21246bcc8"
+  }
+}
