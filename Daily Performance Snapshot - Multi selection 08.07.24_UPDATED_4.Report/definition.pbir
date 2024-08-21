@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Daily Performance Snapshot - Multi selection 08.07.24_UPDATED_4.SemanticModel"
+    },
+    "byConnection": null
+  }
+}
